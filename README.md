@@ -9,8 +9,6 @@ This is the repository for [*Separate-and-Enhance: Compositional Finetuning for 
 [[Project Page](https://zpbao.github.io/projects/SepEn/)]
 [[Paper](https://arxiv.org/abs/2312.06712)]
 
-Please redirect to the official Adobe Repo (coming soon) for the code release. 
-
 ## Set up
 Build conda environment by running: 
 
