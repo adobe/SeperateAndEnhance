@@ -1,0 +1,6 @@
+diffusers==0.14.0
+transformers==4.40.0
+accelerate
+opencv-python
+ipython
+xformers
